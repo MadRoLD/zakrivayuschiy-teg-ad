@@ -1,1 +1,1 @@
-https://github.com/MadRoLD/zakrivayuschiy-teg
+https://github.com/MadRoLD/zakrivayuschiy-teg-ad
